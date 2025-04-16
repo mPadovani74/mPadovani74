@@ -10,10 +10,10 @@ Developer Full stack  <br>BackEnd |Node.js, GO| <br>FrontEnd |React, Next|<br>Mo
 
 # 🛠️ Projects:
 Backend NestJS with basic auth and ORM:
-![](https://github.com/mPadovani74/NestBasicApiAuth)
+ NestBasicApiAuth
 
 SMS Notifier (using Amazon SNS):
-![](https://github.com/mPadovani74/NotificadorSMS-GOang)
+ NotificadorSMS-GOang
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

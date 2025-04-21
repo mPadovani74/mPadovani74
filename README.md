@@ -10,11 +10,13 @@ Developer Full stack  <br>BackEnd |Node.js, GO| <br>FrontEnd |React, Next|<br>Mo
 # 🛠️ Projects:
 ​A veterinary clinic-themed landing page developed using Next.js:
 <p>https://github.com/mPadovani74/basicNextApi</p>
+<p>  
 https://basic-next-api-pop1.vercel.app/
+</p>
 
-Backend NestJS with basic auth and ORM:<br>github.com/mPadovani74/NestBasicApiAuth
+Backend NestJS with basic auth and ORM:<br>https://github.com/mPadovani74/NestBasicApiAuth
 
-SMS Notifier (using Amazon SNS):<br>github.com/mPadovani74/NotificadorSMS-GOang
+SMS Notifier (using Amazon SNS):<br>https://github.com/mPadovani74/NotificadorSMS-GOang
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

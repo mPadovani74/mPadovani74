@@ -10,7 +10,7 @@ Developer Full stack  <br>BackEnd |Node.js, GO| <br>FrontEnd |React, Next|<br>Mo
 # 🛠️ Projects:
 ​A veterinary clinic-themed landing page developed using Next.js:
 https://github.com/mPadovani74/basicNextApi
-Preview: ![](https://vercel.com/mpadovanis-projects/basic-next-api-pop1)
+https://vercel.com/mpadovanis-projects/basic-next-api-pop1
 
 Backend NestJS with basic auth and ORM:<br>github.com/mPadovani74/NestBasicApiAuth
 

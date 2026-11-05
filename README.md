@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus 👋
 
-**Full Stack Software Engineer** · Java / Spring Boot · Angular / React · TypeScript
+**Full Stack Software Engineer** · Java / Spring Boot · Angular / React · TypeScript<br>
 Brazil (UTC−3) · open to remote work and relocation
 
 - 💼 4+ years building web apps, REST APIs and enterprise integrations
@@ -14,7 +14,9 @@ Brazil (UTC−3) · open to remote work and relocation
 #### 🧰 Tech
 
 **Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
 **Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+
 **Data & cloud:** ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?logo=hibernate&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
 ---
